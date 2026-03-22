@@ -1,9 +1,9 @@
 <!-- PROJECT HEADER - DARK THEME -->
 ## Project Overview
 
-This project analyzes and cleans a LinkedIn jobs dataset from Kaggle to understand where job postings are most concentrated and how competitive different roles are based on application volume. [file:1]
+This project analyzes and cleans a LinkedIn jobs dataset from Kaggle to understand where job postings are most concentrated and how competitive different roles are based on application volume. 
 
-It processes approximately 7,900 postings (primarily India-based), standardizes key fields (job titles, company names, and locations), and visualizes hiring hotspots—identifying Bengaluru, Karnataka as the top region with 1,324 postings. [file:1] The analysis also focuses on Data Analyst roles, revealing 224 postings that received 24,283 applications (about 108 applications per posting), highlighting the high level of competition in this field. [file:1]
+It processes approximately 7,900 postings (primarily India-based), standardizes key fields (job titles, company names, and locations), and visualizes hiring hotspots—identifying Bengaluru, Karnataka as the top region with 1,324 postings. The analysis also focuses on Data Analyst roles, revealing 224 postings that received 24,283 applications (about 108 applications per posting), highlighting the high level of competition in this field. 
 <div align="center">
   
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
